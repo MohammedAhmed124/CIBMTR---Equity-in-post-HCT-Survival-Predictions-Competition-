@@ -1,0 +1,13 @@
+pandas
+numpy
+lifelines
+seaborn
+matplotlib
+scikit-learn
+xgboost
+catboost
+lightgbm
+tqdm
+scipy
+autograd
+sympy
